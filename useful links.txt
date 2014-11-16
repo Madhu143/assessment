@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/19994098/hibernate-persist-vs-save - pesist vs save Hibernate
