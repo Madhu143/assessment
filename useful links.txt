@@ -1,1 +1,9 @@
-http://stackoverflow.com/questions/19994098/hibernate-persist-vs-save - pesist vs save Hibernate
+http://stackoverflow.com/questions/19994098/hibernate-persist-vs-save - persist vs save Hibernate
+http://habrahabr.ru/post/135176/ - the Hibernate Cache levels
+http://stackoverflow.com/questions/2118257/hibernate-downside-of-merge-over-update - update vs merge
+
+http://www.journaldev.com/3633/hibernate-interview-questions-and-answers#hibernate-overview - hibernate interview questions
+http://stackoverflow.com/questions/8046662/hibernate-opensession-vs-getcurrentsession - openSession vs getCurrentSession
+http://www.journaldev.com/3481/hibernate-save-vs-saveorupdate-vs-persist-vs-merge-vs-update-explanation-with-examples 
+
+http://www.javatpoint.com/corejava-interview-questions - questions
