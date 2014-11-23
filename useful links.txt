@@ -7,3 +7,5 @@ http://stackoverflow.com/questions/8046662/hibernate-opensession-vs-getcurrentse
 http://www.journaldev.com/3481/hibernate-save-vs-saveorupdate-vs-persist-vs-merge-vs-update-explanation-with-examples 
 
 http://www.javatpoint.com/corejava-interview-questions - questions
+
+http://stackoverflow.com/questions/5481902/web-server-vs-app-server - app server vi web-server vs web container
