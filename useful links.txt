@@ -9,3 +9,18 @@ http://www.journaldev.com/3481/hibernate-save-vs-saveorupdate-vs-persist-vs-merg
 http://www.javatpoint.com/corejava-interview-questions - questions
 
 http://stackoverflow.com/questions/5481902/web-server-vs-app-server - app server vi web-server vs web container
+
+http://habrahabr.ru/post/158605/ - soap vs rest
+http://samolisov.blogspot.com/2013/12/soap-vs-restful.html - soap vs rest v.2
+
+
+http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-session-variables-and-multithreading - http-session
+
+http://stackoverflow.com/questions/4667906/the-advantages-and-disadvantages-of-using-orm - disadvantages of ORM
+
+http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html - serialization
+
+
+-Interview questions
+http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
+http://javarevisited.blogspot.sg/2011/09/spring-interview-questions-answers-j2ee.htmlhttp://javarevisited.blogspot.sg/2011/07/java-multi-threading-interview.html
