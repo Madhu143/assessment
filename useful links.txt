@@ -25,6 +25,10 @@ http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.ht
 http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
 http://javarevisited.blogspot.sg/2011/09/spring-interview-questions-answers-j2ee.htmlhttp://javarevisited.blogspot.sg/2011/07/java-multi-threading-interview.html
 
+http://stackoverflow.com/questions/11646763/remote-debugging-with-intellij-idea - remote debug
+
+http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-Russian.pdf - scrum vs kanban
+
 http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java - memory leak
 http://www.toptal.com/java/hunting-memory-leaks-in-java - tools for memory leak
 
@@ -41,4 +45,3 @@ http://java.boot.by/scbcd5-guide/ch06.html - JPA
 http://stackoverflow.com/questions/2547817/what-is-the-difference-between-transaction-scoped-persistence-context-and-extend - difference between Transaction-scoped Persistence context and Extended Persistence context
 
 http://stackoverflow.com/questions/4546284/what-is-the-difference-between-slice-and-substr-in-javascript - dufferences between slice(), subst()
-
