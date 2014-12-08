@@ -24,3 +24,21 @@ http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.ht
 -Interview questions
 http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
 http://javarevisited.blogspot.sg/2011/09/spring-interview-questions-answers-j2ee.htmlhttp://javarevisited.blogspot.sg/2011/07/java-multi-threading-interview.html
+
+http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java - memory leak
+http://www.toptal.com/java/hunting-memory-leaks-in-java - tools for memory leak
+
+
+http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java - memory leak
+
+http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-session-variables-and-multithreading/3106909#3106909 - tomcat work
+
+http://stackoverflow.com/questions/4779572/could-not-resolve-spring-property-placeholder - classpath file locations
+
+http://www.kumaranuj.com/2013/06/jpa-2-entitymanagers-transactions-and.html - JPA
+http://java.boot.by/scbcd5-guide/ch06.html - JPA
+
+http://stackoverflow.com/questions/2547817/what-is-the-difference-between-transaction-scoped-persistence-context-and-extend - difference between Transaction-scoped Persistence context and Extended Persistence context
+
+http://stackoverflow.com/questions/4546284/what-is-the-difference-between-slice-and-substr-in-javascript - dufferences between slice(), subst()
+
