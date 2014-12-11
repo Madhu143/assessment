@@ -27,4 +27,22 @@ http://javarevisited.blogspot.sg/2011/09/spring-interview-questions-answers-j2ee
 
 http://stackoverflow.com/questions/11646763/remote-debugging-with-intellij-idea - remote debug
 
-http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-Russian.pdf - scrum vs kanban
+http://www.infoq.com/resource/news/2010/01/kanban-scrum-minibook/en/resources/KanbanAndScrum-Russian.pdf - scrum vs kanban (Scrum and Kaban - выжимаем по максимуму)
+
+http://stackoverflow.com/questions/2536692/a-simple-scenario-using-wait-and-notify-in-java - wait/notify scenario
+
+http://theprofessionalspoint.blogspot.com/2014/01/28-mongodb-nosql-database-interview.html - mongoDB interview questions
+
+http://theprofessionalspoint.blogspot.in/2014/01/nosql-vs-rdbms-why-and-why-not-to-use.html - mongodb pros/cons
+
+http://javarevisited.blogspot.com/2012/12/top-10-jdbc-interview-questions-answers.html - jdbc questions
+
+http://www.tutorialspoint.com/jdbc/jdbc_interview_questions.htm - jdbc questions
+
+http://tutorials.jenkov.com/jdbc/resultset.html - result set article
+
+http://habrahabr.ru/post/103830/ - classloading
+
+http://www.javaroots.com/2013/02/classnotfoundexception-vs.html - classNotFoundException vs NoDefClassError
+
+https://en.wikipedia.org/wiki/Isolation_(database_systems) - уровни изоляции транзакций
