@@ -71,3 +71,11 @@ http://www.javatpoint.com/jdbc-driver - jdbc drivers
 http://habrahabr.ru/post/245415/ - security
 
 http://habrahabr.ru/post/38730/ - rest
+https://en.wikipedia.org/wiki/POST_(HTTP) - post 
+http://hashcode.ru/questions/193978/http-%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-put-%D0%B8-post put vs post
+
+http://mybatis.github.io/mybatis-3/sqlmap-xml.html - mybatis cache
+
+http://stackoverflow.com/questions/299659/what-is-the-difference-between-a-soft-reference-and-a-weak-reference-in-java - weak vs soft references
+
+http://habrahabr.ru/post/43955/ - connect by
