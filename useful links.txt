@@ -65,3 +65,9 @@ http://habrahabr.ru/post/103830/ - classloading
 http://www.javaroots.com/2013/02/classnotfoundexception-vs.html - classNotFoundException vs NoDefClassError
 
 https://en.wikipedia.org/wiki/Isolation_(database_systems) - уровни изоляции транзакций
+
+http://www.javatpoint.com/jdbc-driver - jdbc drivers
+
+http://habrahabr.ru/post/245415/ - security
+
+http://habrahabr.ru/post/38730/ - rest
