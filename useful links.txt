@@ -79,3 +79,9 @@ http://mybatis.github.io/mybatis-3/sqlmap-xml.html - mybatis cache
 http://stackoverflow.com/questions/299659/what-is-the-difference-between-a-soft-reference-and-a-weak-reference-in-java - weak vs soft references
 
 http://habrahabr.ru/post/43955/ - connect by
+
+http://www.objectdb.com/api/java/jpa/GenerationType - generator sequences
+
+http://www.cyberforum.ru/java-j2se/thread203484.html - Math.random()
+
+http://stackoverflow.com/questions/2732474/restore-a-postgres-backup-file-using-the-command-line?answertab=votes#tab-top - postgres backup/restore
