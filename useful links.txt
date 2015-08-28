@@ -85,3 +85,15 @@ http://www.objectdb.com/api/java/jpa/GenerationType - generator sequences
 http://www.cyberforum.ru/java-j2se/thread203484.html - Math.random()
 
 http://stackoverflow.com/questions/2732474/restore-a-postgres-backup-file-using-the-command-line?answertab=votes#tab-top - postgres backup/restore
+
+https://docs.oracle.com/javase/7/docs/webnotes/tsg/TSG-VM/html/memleaks.html - troubleshooting JVM
+http://habrahabr.ru/post/222443/ - PermGen OutOfMemoryError
+http://habrahabr.ru/company/maxifier/blog/218313/ - ThreadLocal MemoryLeak
+
+http://www.opennet.ru/base/dev/git_guts.txt.html - как гит хранит объекты
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html - starvation vs livelock
+
+http://stackoverflow.com/questions/795031/how-do-composite-indexes-work - composite indexes
+
+http://www.artima.com/insidejvm/ed2/jvm2.html - internal memory
