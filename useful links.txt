@@ -97,3 +97,5 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html - 
 http://stackoverflow.com/questions/795031/how-do-composite-indexes-work - composite indexes
 
 http://www.artima.com/insidejvm/ed2/jvm2.html - internal memory
+
+http://www.toptal.com/sql/interview-questions - advanced sql questions
