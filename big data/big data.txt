@@ -7,3 +7,5 @@ http://www.bigdataanalyst.in/hive-interview-questions/
 http://hadoopexam.com/Apache_Hive_Interview_Questions.pdf
 
 http://thriveschool.blogspot.com.by/2013/11/hive-bucketed-tables-and-sampling.html - sampling, bucketing
+
+http://codingjunkie.net/mapside-joins/ - map side joins
