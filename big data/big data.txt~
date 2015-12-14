@@ -8,10 +8,6 @@ http://hadoopexam.com/Apache_Hive_Interview_Questions.pdf
 
 http://thriveschool.blogspot.com.by/2013/11/hive-bucketed-tables-and-sampling.html - sampling, bucketing
 
-http://codingjunkie.net/mapside-joins/ - map side joins
-
-http://stackoverflow.com/questions/22533814/what-is-use-of-hcatalog-in-hadoop - hcatalog
-
 http://bigdataconsultants.blogspot.com.by/2013/12/difference-between-in-memory-join-map.html - map side joins
 http://www.edureka.co/blog/map-side-join-vs-join/ - map side joins
 https://cwiki.apache.org/confluence/display/Hive/Skewed+Join+Optimization - skew join
@@ -24,5 +20,3 @@ http://www.slideshare.net/StampedeCon/choosing-an-hdfs-data-storage-format-avro-
 https://docs.oracle.com/cd/B31080_01/doc/owb.102/b28223/concept_data_quality.htm#BGBBDBDA - data quality
 http://stackoverflow.com/questions/11764237/hive-enforces-schema-during-read-time - schema on read
 http://blog.cask.co/2015/03/schema-on-read-in-action/ - schema on read vs schema on write
-
-https://www.quora.com/Why-doesnt-MongoDB-have-availability-in-the-CAP-theorem - Mongo with CAP
